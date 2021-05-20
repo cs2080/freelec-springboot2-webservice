@@ -1,0 +1,17 @@
+[33mcommit 760290aede89fc9b061fb8e80081f27879bc1095[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: junio <junio5188@gmail.com>
+Date:   Thu May 20 15:32:46 2021 +0900
+
+    fixed untracked files
+
+[33mcommit b94f24748eec7e6ac7b677b0ab9b25a46b8f1988[m
+Author: junio <junio5188@gmail.com>
+Date:   Thu May 20 13:03:23 2021 +0900
+
+    gitignore 추가
+
+[33mcommit 31b4036b9448471afb0df7731106ed947c4e6ed9[m
+Author: junio <junio5188@gmail.com>
+Date:   Thu May 20 13:02:27 2021 +0900
+
+    프로젝트 생성
